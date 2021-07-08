@@ -39,8 +39,22 @@ In the case of Linear Regression Models we have the following -
 
 #### 3. What is AutoML? How is it related to MLOps? Just as we saw a list of various MLOps tools, create a list of 3-5 tools used for AutoML (& try to explore their functionality by reading their docs).
 
+AutoML stands for Automated machine learning (AutoML) and it is the process of automating the tasks of applying machine learning to real-world problems.
 
+According to automl.org, 
+>Automated Machine Learning provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
 
+>Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
+
+> 1. Preprocess and clean the data.
+> 2. Select and construct appropriate features.
+> 3. Select an appropriate model family.
+> 4. Optimize model hyperparameters.
+> 5. Design the topology of neural networks (if deep learning is used).
+> 6. Postprocess machine learning models.
+> 7. Critically analyze the results obtained.
+
+> As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning AutoML.
 
 ### Part II
 ![AWS Console Screenshot](AWS_SS.png?raw=true "AWS Console Screenshot")
