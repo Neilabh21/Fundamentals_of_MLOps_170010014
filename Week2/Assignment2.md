@@ -38,6 +38,10 @@
 
 ---
 
+### Part II
+
+---
+
 Classifier | Accuracy | F1 Score
 ---------- | -------- | --------
 Decision Tree | 0.9991397773954567 | 0.7586206896551724
@@ -46,8 +50,3 @@ Random Forest | 0.9995786664794073 | 0.8636363636363635
 ---
 
 ![Screenshot of your S3 bucket](AWS_SS.png)
-
-
----
-
-### Part II
