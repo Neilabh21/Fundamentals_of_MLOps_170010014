@@ -1,5 +1,5 @@
 # Week 3
-## Assignment 1
+## Assignment 3
 ---
 ### Part I
 
